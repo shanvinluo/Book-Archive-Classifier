@@ -1,1 +1,2 @@
 # Book-Archive-Classifier
+This was done as a term project during my second semester at Concordia university. The goal of this algorithm is to classify the txt files that are also included in the repository and to sort out the books that had syntax and semantic errors. This project was to demonstrate our comprehension and usage of binary files, fileoutputstream, fileinputstream as well as exceptions. 
